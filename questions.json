@@ -1,0 +1,107 @@
+[
+    {
+        "question": "What is the correct HTML tag for creating a hyperlink?",
+        "answers": [
+            {
+                "answer": "<link>",
+                "isCorrect": false
+            },
+            {
+                "answer": "<a>",
+                "isCorrect": true
+            },
+            {
+                "answer": "<href>",
+                "isCorrect": false
+            },
+            {
+                "answer": "<hyperlink>",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Which property is used to change the background color of an element in CSS?",
+        "answers": [
+            {
+                "answer": "text-color",
+                "isCorrect": false
+            },
+            {
+                "answer": "background-color",
+                "isCorrect": true
+            },
+            {
+                "answer": "color",
+                "isCorrect": false
+            },
+            {
+                "answer": "bg-color",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "How do you declare a variable in JavaScript?",
+        "answers": [
+            {
+                "answer": "let myVariable;",
+                "isCorrect": true
+            },
+            {
+                "answer": "variable myVariable;",
+                "isCorrect": false
+            },
+            {
+                "answer": "myVariable = var;",
+                "isCorrect": false
+            },
+            {
+                "answer": "declare myVariable;",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "What is the CSS property used to control the order of flexible items in a flex container?",
+        "answers": [
+            {
+                "answer": "align-items",
+                "isCorrect": false
+            },
+            {
+                "answer": "order",
+                "isCorrect": false
+            },
+            {
+                "answer": "flex-wrap",
+                "isCorrect": false
+            },
+            {
+                "answer": "flex-direction",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": "What is the purpose of the HTML <aside> element?",
+        "answers": [
+            {
+                "answer": "It defines additional information that can be related to the main content but can be considered separate.",
+                "isCorrect": true
+            },
+            {
+                "answer": "It represents a section that contains navigation links.",
+                "isCorrect": false
+            },
+            {
+                "answer": "It specifies the header of a document or section.",
+                "isCorrect": false
+            },
+            {
+                "answer": "It defines a container for the main content of an HTML document.",
+                "isCorrect": false
+            }
+        ]
+    }
+]
